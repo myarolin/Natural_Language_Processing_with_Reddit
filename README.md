@@ -1,4 +1,4 @@
-# GA_Project-Natural_Language_Processing
+# Natural Language Processing with Reddit
 
 This project uses natural language processing and creates a classification model based on posts from numerous programming-focused subreddits on reddit.com. 
 
